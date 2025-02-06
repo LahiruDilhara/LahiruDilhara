@@ -1,1 +1,1 @@
-<h1 style="color: red;">Hello World</h1>
+![Red Hello World](https://via.placeholder.com/150/FF0000/FFFFFF?text=Hello+World)
