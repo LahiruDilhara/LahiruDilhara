@@ -22,13 +22,6 @@ const lahiru = {
 };
 ```
 
-<div align="center">
-  
-<!-- Animated Skills Showcase -->
-[![Dynamic Skills](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=FF6B6B&background=1A1A1A&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+PENETRATION+TESTING+%7C+VULNERABILITY+ASSESSMENT+%7C+NETWORK+SECURITY;%F0%9F%94%A5+MICROSERVICES+%7C+KUBERNETES+%7C+DOCKER+%7C+CLOUD+NATIVE;%F0%9F%92%BB+REACT+%7C+FLUTTER+%7C+ANDROID+%7C+KOTLIN+COMPOSE;%F0%9F%9A%80+SPRING+BOOT+%7C+.NET+CORE+%7C+NODE.JS+%7C+PYTHON;%F0%9F%8E%AE+GAME+DEV+%7C+IoT+%7C+BLOCKCHAIN+%7C+MACHINE+LEARNING)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## ⚔️ Arsenal of Technologies
@@ -127,6 +120,8 @@ const lahiru = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
 
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
@@ -185,7 +180,12 @@ const lahiru = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=LahiruDilhara&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/LahiruDilhara)
 
 </div>
+<div align="center">
+  
+<!-- Animated Skills Showcase -->
+[![Dynamic Skills](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=FF6B6B&background=1A1A1A&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+PENETRATION+TESTING+%7C+VULNERABILITY+ASSESSMENT+%7C+NETWORK+SECURITY;%F0%9F%94%A5+MICROSERVICES+%7C+KUBERNETES+%7C+DOCKER+%7C+CLOUD+NATIVE;%F0%9F%92%BB+REACT+%7C+FLUTTER+%7C+ANDROID+%7C+KOTLIN+COMPOSE;%F0%9F%9A%80+SPRING+BOOT+%7C+.NET+CORE+%7C+NODE.JS+%7C+PYTHON;%F0%9F%8E%AE+GAME+DEV+%7C+IoT+%7C+BLOCKCHAIN+%7C+MACHINE+LEARNING)](https://git.io/typing-svg)
 
+</div>
 ---
 
 ## 🌟 Featured Projects
@@ -195,9 +195,11 @@ const lahiru = {
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LahiruDilhara&repo=LahiruDilhara&theme=react&hide_border=true)](https://github.com/LahiruDilhara/LahiruDilhara)
 
----
 
 </div>
+
+---
+
 
 > 🚀 **Explore my repositories** to see innovative solutions in action - from enterprise applications to cutting-edge mobile apps!
 
@@ -216,6 +218,7 @@ const lahiru = {
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%AD%90+STAR+MY+REPOS+IF+YOU+FIND+THEM+USEFUL!;%F0%9F%94%A5+LET'S+BUILD+SOMETHING+LEGENDARY+TOGETHER!;%F0%9F%9A%80+THE+FUTURE+IS+BUILT+ONE+COMMIT+AT+A+TIME)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
