@@ -6,34 +6,29 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ---
 
 ## 🚀 About Me
 
+
 I'm a **passionate Software Engineer** with expertise spanning the entire technology stack - from low-level driver development to high-level cloud architectures. I build scalable, robust solutions that solve real-world problems and deliver exceptional user experiences.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
-</div>
+
 
 ```javascript
 const lahiru = {
-  location: "Sri Lanka 🇱🇰",
-  role: "Full Stack Software Engineer & DevOps Architect",
-  passion: ["Clean Code", "System Design", "Innovation", "Security"],
-  specialization: [
-    "Cloud Architecture",
-    "Mobile Development",
-    "Ethical Hacking",
-  ],
-  currentFocus: "Building scalable cloud-native applications",
-  availableFor: "Exciting opportunities and collaborations",
-  threatLevel: "Maximum Productivity 🔥",
-  hackingSkills: "Elite Level 💀",
-  coffeeConsumed: "Infinite ☕",
-  bugsSquashed: "9999+ 🐛",
+    location: "Sri Lanka 🇱🇰",
+    role: "Full Stack Software Engineer",
+    passion: ["Clean Code", "System Design", "Innovation"],
+    currentFocus: "Building scalable cloud-native applications",
+    availableFor: "Exciting opportunities and collaborations"
 };
 ```
 
