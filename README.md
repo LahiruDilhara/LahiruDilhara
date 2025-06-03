@@ -4,31 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=FULL+STACK+SOFTWARE+ENGINEER;DEVOPS+%26+CLOUD+ARCHITECT;MOBILE+APP+DEVELOPER;CYBERSECURITY+%26+BLOCKCHAIN+EXPERT)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ---
 
 ## 🚀 About Me
 
-
 I'm a **passionate Software Engineer** with expertise spanning the entire technology stack - from low-level driver development to high-level cloud architectures. I build scalable, robust solutions that solve real-world problems and deliver exceptional user experiences.
-
-
 
 ```javascript
 const lahiru = {
-    location: "Sri Lanka 🇱🇰",
-    role: "Full Stack Software Engineer",
-    passion: ["Clean Code", "System Design", "Innovation"],
-    currentFocus: "Building scalable cloud-native applications",
-    availableFor: "Exciting opportunities and collaborations"
+  location: "Sri Lanka 🇱🇰",
+  role: "Full Stack Software Engineer",
+  passion: ["Clean Code", "System Design", "Innovation"],
+  currentFocus: "Building scalable cloud-native applications",
+  availableFor: "Exciting opportunities and collaborations",
 };
 ```
 
@@ -201,8 +191,11 @@ const lahiru = {
 ## 🌟 Featured Projects
 
 <div align="center">
+
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LahiruDilhara&repo=LahiruDilhara&theme=react&hide_border=true)](https://github.com/LahiruDilhara/LahiruDilhara)
+
+---
 
 </div>
 
@@ -247,12 +240,15 @@ const lahiru = {
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/lahirudilhara)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/lahirudilhara)
 
+
 </div>
 
 <div align="center">
   
 <!-- Dynamic Contact Animation -->
 [![Contact Me](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+READY+TO+BUILD+THE+IMPOSSIBLE%3F;%E2%9A%A1+LET'S+CREATE+DIGITAL+MAGIC+TOGETHER;%F0%9F%9A%80+YOUR+NEXT+PROJECT+AWAITS...;%F0%9F%92%80+ELITE+DEVELOPER+FOR+HIRE)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 </div>
 
@@ -407,3 +403,4 @@ const lahiru = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
 </div>
+
