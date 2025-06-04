@@ -6,6 +6,8 @@
 
 </div>
 
+
+
 ---
 
 ## 🚀 About Me
@@ -21,6 +23,13 @@ const lahiru = {
   availableFor: "Exciting opportunities and collaborations",
 };
 ```
+
+<div align="center">
+  
+<!-- Animated Skills Showcase -->
+[![Dynamic Skills](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=FF6B6B&background=1A1A1A&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+PENETRATION+TESTING+%7C+VULNERABILITY+ASSESSMENT+%7C+NETWORK+SECURITY;%F0%9F%94%A5+MICROSERVICES+%7C+KUBERNETES+%7C+DOCKER+%7C+CLOUD+NATIVE;%F0%9F%92%BB+REACT+%7C+FLUTTER+%7C+ANDROID+%7C+KOTLIN+COMPOSE;%F0%9F%9A%80+SPRING+BOOT+%7C+.NET+CORE+%7C+NODE.JS+%7C+PYTHON;%F0%9F%8E%AE+GAME+DEV+%7C+IoT+%7C+BLOCKCHAIN+%7C+MACHINE+LEARNING)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -180,12 +189,8 @@ const lahiru = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=LahiruDilhara&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/LahiruDilhara)
 
 </div>
-<div align="center">
-  
-<!-- Animated Skills Showcase -->
-[![Dynamic Skills](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=FF6B6B&background=1A1A1A&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+PENETRATION+TESTING+%7C+VULNERABILITY+ASSESSMENT+%7C+NETWORK+SECURITY;%F0%9F%94%A5+MICROSERVICES+%7C+KUBERNETES+%7C+DOCKER+%7C+CLOUD+NATIVE;%F0%9F%92%BB+REACT+%7C+FLUTTER+%7C+ANDROID+%7C+KOTLIN+COMPOSE;%F0%9F%9A%80+SPRING+BOOT+%7C+.NET+CORE+%7C+NODE.JS+%7C+PYTHON;%F0%9F%8E%AE+GAME+DEV+%7C+IoT+%7C+BLOCKCHAIN+%7C+MACHINE+LEARNING)](https://git.io/typing-svg)
 
-</div>
+
 ---
 
 ## 🌟 Featured Projects
@@ -220,6 +225,7 @@ const lahiru = {
 </div>
 
 
+
 ---
 
 ## 🚀 Let's Connect & Collaborate
@@ -234,6 +240,8 @@ const lahiru = {
 - 🎓 **Technical Mentoring** opportunities
 
 ### 📫 **Get In Touch:**
+
+
 
 <div align="center">
 
@@ -372,6 +380,7 @@ const lahiru = {
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -390,12 +399,6 @@ const lahiru = {
 
 </div>
 
-<div align="center">
-  
-<!-- Terminal Command Animation -->
-[![Terminal](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=14&duration=1000&pause=2000&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=lahiru%40elite%3A~%24+whoami;%3E+Elite+Software+Architect;lahiru%40elite%3A~%24+echo+%24MISSION;%3E+Building+tomorrow's+technology+today;lahiru%40elite%3A~%24+sudo+make+world+better;%3E+Permission+granted.+Initiating+world+improvement...;lahiru%40elite%3A~%24+git+commit+-m+%22Changed+the+world%22;%3E+%5Bmaster+f1n4l%5D+Changed+the+world;lahiru%40elite%3A~%24+exit;%3E+Until+next+time%2C+keep+coding!)](https://git.io/typing-svg)
-
-</div>
 
 <!-- Animated Footer -->
 <div align="center">
@@ -407,3 +410,10 @@ const lahiru = {
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
 </div>
 
+
+<div align="center">
+  
+<!-- Terminal Command Animation -->
+[![Terminal](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=14&duration=1000&pause=2000&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=lahiru%40elite%3A~%24+whoami;%3E+Elite+Software+Architect;lahiru%40elite%3A~%24+echo+%24MISSION;%3E+Building+tomorrow's+technology+today;lahiru%40elite%3A~%24+sudo+make+world+better;%3E+Permission+granted.+Initiating+world+improvement...;lahiru%40elite%3A~%24+git+commit+-m+%22Changed+the+world%22;%3E+%5Bmaster+f1n4l%5D+Changed+the+world;lahiru%40elite%3A~%24+exit;%3E+Until+next+time%2C+keep+coding!)](https://git.io/typing-svg)
+
+</div>
