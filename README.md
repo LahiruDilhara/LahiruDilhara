@@ -22,6 +22,9 @@ const lahiru = {
 };
 ```
 
+## 🛠️ Featured Projects
+
+- **[Zetrenoid](https://zetrenoid.com)** — Free, privacy-first online utility tools ready in your browser, with no installs, signups, or data stored.
 
 ## 🔥 Technology Stack
 
@@ -221,7 +224,7 @@ Low-level system programming, network protocol design, IoT development (Arduino,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/lahiru-dilhara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:lahirudilhara@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:hello@lahirudilhara.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://lahirudilhara.dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/lahirudilhara)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/lahirudilhara)
